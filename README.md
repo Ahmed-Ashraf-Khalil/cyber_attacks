@@ -1,5 +1,5 @@
 # cyber_attacks
-cyber attacks classification ready to be deployed on IOT environment
+cyber attacks classification of (BENIGN , DoS Hulk , PortScan , DDoS , DoS GoldenEye , FTP-Patator , SSH-Patator , DoS slowloris , DoS Slowhttptest , Bot , Brute Force , XSS) ready to be deployed on IOT environment
 
 ## cyber_attacks.ipynb :
 step by step through preprocessing and data modeling using tensorflow 
