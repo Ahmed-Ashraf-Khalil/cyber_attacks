@@ -13,4 +13,5 @@ hdf5 model weights  format
 ## weights.tflite :
 tensorflow lite weights for deployment 
 
-## [Dataset - cicids2017](https://www.kaggle.com/asthana12/cicids2017)
+## Dataset :
+[cicids2017](https://www.kaggle.com/asthana12/cicids2017)
