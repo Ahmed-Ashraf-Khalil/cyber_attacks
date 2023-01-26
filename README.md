@@ -15,3 +15,6 @@ tensorflow lite weights for deployment
 
 ## Dataset :
 [cicids2017](https://www.kaggle.com/asthana12/cicids2017)
+
+Collaborating with :
+* https://github.com/zinebyagami
